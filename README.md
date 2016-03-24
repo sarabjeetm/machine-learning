@@ -1,2 +1,2 @@
 # machine-learning
-Code to implement machine learning algorithms
+Code to implement machine learning algorithms using Numpy
